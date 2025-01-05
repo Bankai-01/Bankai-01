@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Athul😁</h1>
-<p>Hello there <br> Iam Athul😁 <br> I'm 15 years old<br> From <b>India Kerala Kollam</b> Passionated in Programing App&games developing & cyber Security <h2><i>~Athul</i></h2></p>
+<p>Hello there <br> Iam Athul😁 <br> I'm 15 years old <br> From India Kerala Kollam<br>Passionated in Programing App&games developing & cyber Security <h2><i>~Something new</i></h2></p>
 <p>Dream Become A Software Engineer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
