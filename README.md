@@ -1,6 +1,9 @@
 <h1>Hi 👋, I'm Athul😁</h1>
-<p>Hello there <br> Iam Athul😁 <br> I'm 15 years old <br> From India Kerala Kollam<br>Passionated in Programing App&games developing & cyber Security <h2><i>~Something new</i></h2></p>
-<p>Dream Become A Software Engineer</p>
+<p>Hello! I'm Athul, a 15-year-old passionate about software development. My journey began at the age of 11, and since then, I've been dedicated to learning and exploring the world of coding. I have a deep interest in various fields like app development, game development, website creation, hacking, terminal scripting, and more.
+
+I am skilled in several programming languages, including C, C++, C#, Python, Java, Kotlin, JavaScript, PHP, HTML, and CSS. I'm a self-taught learner, constantly pushing myself to improve and expand my knowledge.
+
+I'm from Kollam, Kerala, India, and I aim to continue growing as a developer, taking on new challenges and building innovative projects.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
