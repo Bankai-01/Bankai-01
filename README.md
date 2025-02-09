@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Athul😁</h1>
-<p>Hello! I'm Athul, a 15-year-old passionate about computer science. My journey began at the age of 11, and since then, I've been dedicated to learning and exploring the world of coding. I have a deep interest in various fields like app development, game development, website development, hacking, terminal scripting, and more.
+<p>Hello! I'm Athul, a 15-year-old passionate about computer science and electronics. My journey began at the age of 11, and since then, I've been dedicated to learning and exploring the world of coding. I have a deep interest in various fields like app development, game development, website development, hacking, terminal scripting, and more.
 
 I am skilled in several programming languages, including C, C++, C#, Python, Java, Kotlin, JavaScript, PHP, HTML, and CSS. I'm a self-taught learner, constantly pushing myself to improve and expand my knowledge.
 
